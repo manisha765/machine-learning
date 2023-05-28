@@ -5,7 +5,7 @@
 
 ![contact us page](https://github.com/manisha765/machine-learning/assets/109501765/9f1fe404-a481-4e85-9218-db7a5be77f21)
 
-# pagePayment
+# Payment Page
 
 ![payment page](https://github.com/manisha765/machine-learning/assets/109501765/5cd476a1-b61e-4361-9a87-10caf3fd17d0)
 
